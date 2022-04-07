@@ -1,0 +1,8 @@
+{
+  "jupyter.jupyterServerType": "remote",
+    // 有道翻译appKey
+    "translate.youdao.appKey": "622c1f146216b5b7",
+
+    // 有道翻译appSecret
+    "translate.youdao.appSecret": "ZV83Fvky0IqmLzfF0VcM76ScQ2K00XLt"
+}

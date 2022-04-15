@@ -1,5 +1,5 @@
 {
-  "jupyter.jupyterServerType": "remote",
+  "jupyter.jupyterServerType": "local",
     // 有道翻译appKey
     "translate.youdao.appKey": "622c1f146216b5b7",
 
